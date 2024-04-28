@@ -1,0 +1,3 @@
+nike-airmax-200,150000,Lightweight,Air cushioning,Breathable mesh
+nike-pegasus-38,130000,Responsive cushioning,Lightweight support,Mesh ventilation
+nike-react-infinity,160000,Maximum cushioning,Smooth ride,Flyknit technology

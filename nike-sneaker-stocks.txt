@@ -1,0 +1,3 @@
+nike-airmax-200, 50
+nike-pegasus-38, 30
+nike-react-infinity, 20
